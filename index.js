@@ -1,4 +1,4 @@
-// test2
+// test
 let express = require("express");
 let app = new express();
 app.set("view engine", "ejs");
